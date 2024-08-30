@@ -20,7 +20,7 @@ function PortFolio() {
       logo: express,
       name: "Telecom Bill",
       description:
-        "Python script using BeautifulSoup to scrape e-commerce data and export it to Excel.",
+        "Telephone billing project by using Python MySQL.",
       videoLink: "https://youtube.com/watch?v=zFBfLLGHZJs",
       sourceCodeLink: "https://github.com/yashsrivastava0/Web-Scraping-Project/tree/main/amazon",
     },
@@ -37,7 +37,7 @@ function PortFolio() {
       id: 4,
       logo: nodejs,
       name: "NodeJS",
-      description: "A NodeJS project description placeholder.",
+      description: "Python script using BeautifulSoup to scrape e-commerce data and export it to Excel .",
       videoLink: "https://youtube.com/watch?v=zFBfLLGHZJs",
       sourceCodeLink: "https://github.com/yashsrivastava0/Web-Scraping-Project/tree/main/amazon",
     },
