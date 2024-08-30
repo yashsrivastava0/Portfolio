@@ -75,7 +75,7 @@ function Home() {
           </div>
           <div className="md:w-1/2 md:ml-48 md:mt-20 my-10 mt-8 order-1">
           <img
-       src='src\assets\yash-removebg-preview.png' // Path relative to the public directory
+       src=' /yash-removebg-preview.png ' // Path relative to the public directory
         className="rounded-full md:w-[450px] md:h-[450px]"
       alt="Profile"
         />
