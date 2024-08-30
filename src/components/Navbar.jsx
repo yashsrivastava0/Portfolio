@@ -12,7 +12,7 @@ function Navbar() {
     <nav className="bg-white dark:bg-gray-900 fixed w-full z-20 top-0 start-0 border-b border-gray-200 dark:border-gray-600">
       <div className="max-w-screen-xl flex flex-wrap items-center justify-between mx-auto p-4">
         <div className="flex items-center space-x-3 rtl:space-x-reverse">
-          <img src="public\icons8-coder-60.png" className="h-8" alt="Logo" />
+          <img src="/icons8-coder-60.png" className="h-8" alt="Logo" />
           <span className="self-center text-xl font-semibold cursor-pointer whitespace-nowrap dark:text-white text-center">
             <span className="block text-[1.5rem] leading-[1.5rem]">Yash</span>
 <span className="block text-[1.25rem] leading-[1.25rem]">Web Developer</span>
@@ -40,7 +40,7 @@ function Navbar() {
                 to="contact"
                 smooth={true}
                 duration={500}
-                offset={-70} // Adjust this value based on your header height
+                offset={-70} //  header  ki height
                 className="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100 dark:text-gray-200 dark:hover:bg-gray-600 cursor-pointer"
               >
                 Message
