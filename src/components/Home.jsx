@@ -28,11 +28,10 @@ function Home() {
             </div>
             <br />
             <p className="text-sm md:text-md text-justify">
-              Lorem ipsum dolor, sit amet consectetur adipisicing elit.
-              Quisquam, recusandae consequatur. Accusamus sint libero eligendi
-              laborum fuga repudiandae? Asperiores tempore eos animi dolores
-              corrupti! Sint quos, mollitia architecto aliquam nesciunt, optio
-              cum delectus sit voluptatum aut ratione quaerat veniam aperiam!
+            A Web Developer specializing in ReactJS, MongoDB, and Python. 
+              I create dynamic web applications and engage in tech and photography. 
+              Currently pursuing a B. Tech., I’m passionate about innovative solutions 
+              and community involvement.
             </p>
             <br />
             {/* Social media icons */}
